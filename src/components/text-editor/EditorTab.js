@@ -1,7 +1,7 @@
 import { Tab } from "react-tabs";
 import styled from "styled-components";
 
-const StyledTab = styled(Tab)`
+const EditorTab = styled(Tab)`
   display: flex;
   flex: 1;
   justify-content: center;
@@ -19,6 +19,6 @@ const StyledTab = styled(Tab)`
   }
 `;
 
-StyledTab.tabsRole = "Tab";
+EditorTab.tabsRole = "Tab";
 
-export default StyledTab;
+export default EditorTab;

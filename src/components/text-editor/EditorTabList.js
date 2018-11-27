@@ -1,13 +1,13 @@
 import { TabList } from "react-tabs";
 import styled from "styled-components";
 
-const StyledTabList = styled(TabList)`
+const EditorTabList = styled(TabList)`
   display: flex;
   padding: 0;
   margin: 0;
   width: 250px;
 `;
 
-StyledTabList.tabsRole = "TabList";
+EditorTabList.tabsRole = "TabList";
 
-export default StyledTabList;
+export default EditorTabList;
