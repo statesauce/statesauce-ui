@@ -15,7 +15,6 @@ export { default as CardHeader } from "./components/card/CardHeader";
 export { default as CardSubtitle } from "./components/card/CardSubtitle";
 export { default as CardTitle } from "./components/card/CardTitle";
 
-export { default as Icons } from "./components/icons/Icons";
 export { default as BountyIcon } from "./components/icons/BountyIcon";
 export { default as CaretIcon } from "./components/icons/CaretIcon";
 export { default as CheckIcon } from "./components/icons/CheckIcon";
@@ -28,7 +27,7 @@ export { default as EmailIcon } from "./components/icons/EmailIcon";
 export { default as EthereumIcon } from "./components/icons/EthereumIcon";
 export { default as GithubIcon } from "./components/icons/GithubIcon";
 export { default as LinkedInIcon } from "./components/icons/LinkedInIcon";
-export { default as MetamaskIcon } from "./components/icons/MetamaskIcon";
+export { default as MetaMaskIcon } from "./components/icons/MetaMaskIcon";
 export { default as OverviewIcon } from "./components/icons/OverviewIcon";
 export { default as RedditIcon } from "./components/icons/BountyIcon";
 export { default as RepoIcon } from "./components/icons/RepoIcon";
