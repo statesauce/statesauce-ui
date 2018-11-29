@@ -3,9 +3,9 @@ import { draftToMarkdown, markdownToDraft } from "markdown-draft-js";
 import styled from "styled-components";
 import { Tabs } from "react-tabs";
 
-import Tab from "./Tab";
-import TabList from "./TabList";
-import TabPanel from "./TabPanel";
+import Tab from "./EditorTab";
+import TabList from "./EditorTabList";
+import TabPanel from "./EditorTabPanel";
 
 const Container = styled.div`
   border-style: solid;

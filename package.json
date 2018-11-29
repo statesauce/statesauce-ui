@@ -24,6 +24,11 @@
   "dependencies": {
     "bignumber.js": "^6.0.0",
     "draft-js": "^0.10.5",
+    "draft-js-export-markdown": "^1.2.0",
+    "draft-js-inline-toolbar-plugin": "^3.0.0",
+    "draft-js-markdown-shortcuts-plugin": "^0.5.0",
+    "draft-js-plugins-editor": "^2.1.1",
+    "draft-js-static-toolbar-plugin": "^3.0.0",
     "markdown-draft-js": "^1.1.6",
     "react-onclickoutside": "^6.7.1",
     "react-tabs": "^2.3.0",
