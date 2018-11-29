@@ -17,7 +17,7 @@ export { default as CardTitle } from "./components/card/CardTitle";
 
 export { default as Icons } from "./components/icons/Icons";
 export { default as BountyIcon } from "./components/icons/BountyIcon";
-export { default as CarotIcon } from "./components/icons/CarotIcon";
+export { default as CaretIcon } from "./components/icons/CaretIcon";
 export { default as CheckIcon } from "./components/icons/CheckIcon";
 export { default as CollaterallIcon } from "./components/icons/CollaterallIcon";
 export {
