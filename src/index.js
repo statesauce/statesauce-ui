@@ -1,3 +1,4 @@
+// Components
 export { default as Actionbar } from "./components/actionbar/Actionbar";
 
 export { default as Breadcrumbs } from "./components/breadcrumbs/Breadcrumbs";
@@ -44,3 +45,7 @@ export { default as KeyValue } from "./components/keyvalue/KeyValue";
 export { default as Logo } from "./components/logo/Logo";
 
 export { default as Overlay } from "./components/overlay/Overlay";
+
+// Utils
+export { default as adapt } from "./utils/adapt";
+export { default as withLoading } from "./utils/withLoading";
