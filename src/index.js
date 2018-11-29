@@ -19,7 +19,7 @@ export { default as Icons } from "./components/icons/Icons";
 export { default as BountyIcon } from "./components/icons/BountyIcon";
 export { default as CaretIcon } from "./components/icons/CaretIcon";
 export { default as CheckIcon } from "./components/icons/CheckIcon";
-export { default as CollaterallIcon } from "./components/icons/CollaterallIcon";
+export { default as CollateralIcon } from "./components/icons/CollateralIcon";
 export {
   default as CommonInterestIcon
 } from "./components/icons/CommonInterestIcon";
